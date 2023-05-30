@@ -45,43 +45,42 @@
 # C1S1 (Chapter 1 Season 1)
  Build / Version                  	 | Key          	 |
 | ----------------------------- | ----------------------
-| 1.7                               | 0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L	    |
-| 1.8                               | 0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L
-| 1.9                               | 0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L
-| 1.9.1                             | 0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L	    |
-| 1.10                              | 0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L
+| 1.7.2-CL-3700114                               | 0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L	    |
+| 1.8-CL-3724489
+| 1.8.1-CL-3729133
+| 1.8.2-CL-3741772                            | 0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L
+| 1.9-CL-3757339                               | 0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L
+| 1.9.1-CL-3775276                             | 0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L	    |
+| 1.10-CL-3790078                              | 0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L
 
 
 
 # C1S2 (Chapter 1 Season 2)
  Build / Version                  	 | Key          	 |
 | ----------------------------- | ----------------------
-| 2.1                                | 0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L	    |
-| 2.2                               | 0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L
-| 2.3                               | 0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L
-| 2.3.2                             | N/A	    |
-| 2.4.2                              | 2CCDFD22AD74FBFEE693A81AC11ACE57E6D10D0B8AC5FA90E793A130BC540ED4
-| 2.5                              | 0xY298QJSB115NQQ3AGAD30DWN2QYRTI8CT6AP05L2PBV9QE92S94PDOVCCY06A38L
+| 2.1.0-CL-3825894                                | No AES Key Found (May Change In Future)    |
+| 2.2.0-CL-3841827                               | No AES Key Found (May Change In Future)
+| 2.3.0-CL-3847564                               | No AES Key Found (May Change In Future)
+| 2.4.0-CL-3858292                             | No AES Key Found (May Change In Future)	    |
+| 2.4.2-CL-3870737                              | 0x2CCDFD22AD74FBFEE693A81AC11ACE57E6D10D0B8AC5FA90E793A130BC540ED4
+| 2.5.0-CL-3889387                              | No AES Key Found (May Change In Future)
 
 
-
-
-# Season 2
-| Build                         | Date           	 |  Engine Version	    |		    Download links             |
-| ----------------------------- | ---------------------- | ------------------------ |------------------------------- |
-| 1.11-CL-3807424         	| 14-12-17		 | UE4.19-3807424	    |		https://rebrand.ly/01_11|
-| 2.1.0-CL-3825894        	| 09-01-18	  	 | UE4.19-3825894	    |	https://rebrand.ly/2_1_0|
-| 2.2.0-CL-3841827        	| 18-01-18	  	 | UE4.19-3841827	    |		https://rebrand.ly/2_2_0|
-| 2.3.0-CL-3847564        	| 25-01-18	  	 | UE4.19-3847564	    |		https://cdn.fnbuilds.services/2.3.rar|
-| 2.4.0-CL-3858292        	| 01-02-18	  	 | UE4.19-3858292	    |		https://rebrand.ly/2_4_0|
-| 2.4.2-CL-3870737        	| 07-02-18	  	 | UE4.19-3870737	    |		https://rebrand.ly/2_4_2|
-| 2.5.0-CL-3889387        	| 13-02-18       	 | UE4.20-3889387	    |	        https://cdn.fnbuilds.services/2.5.0.rar|
+# C1S3 (Chapter 1 Season 3)
+ Build / Version                  	 | Key          	 |
+| ----------------------------- | ----------------------
+| 3.0-CL-3901517                                | No AES Key Found (May Change In Future)    |
+| 3.1-CL-3915963                               | No AES Key Found (May Change In Future)
+| 3.1-CL-3917250                               | No AES Key Found (May Change In Future)
+| 3.2-CL-3935073                             | No AES Key Found (May Change In Future)	    |
+| 3.3-CL-3942182                              | 0x2CCDFD22AD74FBFEE693A81AC11ACE57E6D10D0B8AC5FA90E793A130BC540ED4
+| 3.5-CL-4008490                              | No AES Key Found (May Change In Future)
 
 
 
 
 
-# Season 3
+# C1S3 (Chapter 1 Season 3
 | Build                         | Date           	 |  Engine Version	    |		    Download links             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 3.0-CL-3901517	 	| 21-02-18	   	 | UE4.20-3901517	    |	https://rebrand.ly/3_0 |
